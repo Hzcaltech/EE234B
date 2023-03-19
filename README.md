@@ -1,6 +1,5 @@
 # EE234B
 ## Project content
-###This project is for caltech EE234b 
 
 note: The project reuse part of the code from EE133b for Astar algorithm <br />
 
